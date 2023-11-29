@@ -1,0 +1,9 @@
+Options Git_Log
+
+Quelques commandes utiles:
+
+-git log => affiche l'historique des commits sur notre repository.
+-git log --all=> Affiche les commits de toutes les branches.
+-git log --oneline => Qffihce seulement les titres des commits.
+-git log --all --oneline --graph => Affiche un graphe representant les branches.
+-git log --all --oneline --stat => Affihce le resume des changements de chaque commit.
