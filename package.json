@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "flake8": "^4.0.1"
+  },
+  "scripts": {
+    "lint": "flake8 ."
+  }
+}
+
+
