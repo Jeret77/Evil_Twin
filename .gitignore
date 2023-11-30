@@ -1,0 +1,39 @@
+# Fichiers système
+.DS_Store
+
+# Répertoire de dépendances Node.js
+node_modules/
+
+# Fichiers de build
+dist/
+build/
+
+# Fichiers de configuration spécifiques à l'utilisateur
+config.js
+secrets.js
+
+# Fichiers de sauvegarde
+*.bak
+
+# Fichiers de logs
+*.log
+
+# Environnement virtuel Python
+venv/
+
+# Fichiers de cache
+.cache/
+
+# Fichiers de configuration IDE
+.idea/
+.vscode/
+
+# Ignore les fichiers de sauvegarde Emacs
+*~
+
+# Ignorer les fichiers de compilation Python
+__pycache__/
+*.pyc
+
+# Ignorer les fichiers de configuration
+*.config
