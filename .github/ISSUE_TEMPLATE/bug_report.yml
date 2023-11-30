@@ -1,37 +1,40 @@
-name: "Issue Template"
-about: "Template for creating issues"
-title: "[Feature] "
+name: "Feature Request"
+about: "Use this template for submitting feature requests."
 
-# Default values for your issue:
-defaults:
-  assignees:
-    - "username"
-  labels:
-    - "enhancement"
-  milestone: "Sprint X"
-  projects:
-    - "Project Name"
+title: "[Feature Request] "
 
+on:
+  issues:
+    labels:
+      - "enhancement"
+    projects:
+      - "Feature Requests"
 
+body:
 
-## Tasks
-- "[ ] Task 1"
-- "[ ] Task 2"
-- "[ ] ..."
+## Description
+Please provide a detailed description of the feature you're requesting.
+
+## Context
+Describe the context or problem you're trying to solve with this feature request.
+
+## Additional Information
+Add any other relevant information or screenshots here.
 
 ## Acceptance Criteria
-- "[ ] Criterion 1"
-- "[ ] Criterion 2"
-- "[ ] ..."
-
-## Additional Context
-"Include any additional relevant information."
-
-## Attachments
-"If applicable, attach files or screenshots here."
+Define the criteria that must be met for this feature to be considered complete.
 
 ## Due Date
-"Set a due date if necessary."
+Set a due date if necessary.
 
-## Other Comments
-"Any additional information or comments."
+## Assignees
+Assign someone to this issue if applicable.
+
+## Labels
+Add any additional labels that may be relevant.
+
+## Attachments
+If applicable, attach files or screenshots here.
+
+## Additional Comments
+Any additional information or comments.
