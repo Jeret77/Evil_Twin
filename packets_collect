@@ -1,0 +1,31 @@
+# Comprendre les Formes d'Interception de Paquets : Enjeux et Précautions
+
+L'interception de paquets, une pratique souvent associée aux attaques informatiques, consiste à capturer et analyser les données circulant à travers un réseau. Cette activité peut être effectuée à diverses fins, qu'elles soient malveillantes ou à des fins de surveillance légitimes. Examinons de plus près les différentes formes d'interception de paquets et les précautions à prendre pour assurer la sécurité des données.
+
+## **1. **Sniffing Réseau :**
+Le sniffing réseau est l'une des formes les plus courantes d'interception de paquets. Un attaquant utilise des outils pour capturer et analyser les paquets de données transitant sur un réseau. Cela peut révéler des informations sensibles, telles que les identifiants de connexion, les données de navigation, ou même des informations de carte de crédit si la communication n'est pas chiffrée.
+
+### **Précautions :**
+- Utiliser le chiffrement : Le recours à des protocoles de chiffrement, tels que HTTPS, contribue à rendre les données illisibles en cas de capture.
+- Réseaux privés virtuels (VPN) : Les VPN créent un tunnel sécurisé, rendant plus difficile l'interception de paquets par des tiers.
+
+## **2. **Man-In-The-Middle (MITM) :**
+Dans une attaque MITM, un attaquant s'insère entre deux parties communicantes, interceptant et éventuellement modifiant les paquets en transit. Cela peut être utilisé pour voler des informations ou injecter du contenu malveillant.
+
+### **Précautions :**
+- Utiliser des certificats SSL/TLS fiables : Les certificats HTTPS fiables aident à détecter et à prévenir les attaques MITM.
+- Vérifier l'authenticité des points d'accès : Éviter les réseaux Wi-Fi non sécurisés et inconnus.
+
+## **3. **Attaques de Déni de Service (DoS) :**
+Les attaques DoS peuvent inclure la surcharge d'un réseau avec une quantité excessive de trafic, entraînant une interruption des services. Bien que cela ne capture pas directement les paquets, cela peut être utilisé pour détourner l'attention des équipes de sécurité.
+
+### **Précautions :**
+- Mise en œuvre de la détection d'anomalies : Les systèmes de détection d'anomalies peuvent identifier les modèles de trafic inhabituels associés aux attaques DoS.
+
+## **4. **Collecte Légale de Paquets :**
+Dans un contexte légal, la collecte de paquets est effectuée pour surveiller et analyser le trafic réseau dans le cadre de la gestion de réseau, de la détection d'intrusion ou de la résolution de problèmes.
+
+### **Précautions :**
+- Respect des lois et réglementations locales : La collecte de données doit être effectuée conformément aux lois et réglementations en vigueur.
+
+Comprendre les différentes formes d'interception de paquets est essentiel pour renforcer la sécurité des réseaux et protéger les données sensibles. Les mesures de précaution et les bonnes pratiques en matière de sécurité informatique jouent un rôle crucial dans la prévention de ces attaques.
