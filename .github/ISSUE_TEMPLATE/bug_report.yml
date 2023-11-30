@@ -12,10 +12,7 @@ defaults:
   projects:
     - "Project Name"
 
-body:
 
-## Description
-"Replace this paragraph with a detailed description of the issue."
 
 ## Tasks
 - "[ ] Task 1"
