@@ -1,0 +1,17 @@
+L'Evil Twin, une attaque visant à tromper les utilisateurs en créant un point d'accès malveillant, est un domaine d'activité où plusieurs outils sont souvent utilisés. Voici quelques outils similaires à Evil Twin qui sont parfois employés dans des contextes de test de sécurité ou d'évaluation des vulnérabilités :
+
+1. **Wi-Fi Pineapple :** C'est un dispositif matériel qui permet de réaliser des attaques de type Man-in-the-Middle (MITM) en créant des réseaux WiFi factices. Il est souvent utilisé à des fins de test de sécurité.
+
+2. **Mana Toolkit :** Un ensemble d'outils open source conçu pour réaliser des attaques de type Evil Twin. Il peut être utilisé pour créer des points d'accès malveillants et effectuer diverses attaques contre les réseaux WiFi.
+
+3. **Ghost Phisher :** Un outil de sécurité informatique utilisé pour effectuer des attaques de phishing et d'usurpation d'identité. Il peut également être utilisé pour créer des points d'accès Evil Twin.
+
+4. **Airgeddon :** Un script Bash qui automatise diverses attaques liées aux réseaux sans fil, y compris les attaques Evil Twin. Il offre une gamme étendue de fonctionnalités pour tester la sécurité des réseaux WiFi.
+
+5. **Wifiphisher :** Un outil de phishing sans fil qui permet d'effectuer des attaques Evil Twin. Il est capable de cloner des réseaux WiFi légitimes pour tromper les utilisateurs.
+
+6. **MDK3 :** Un outil en ligne de commande qui peut être utilisé pour générer des attaques de déni de service (DoS) sur les réseaux WiFi, y compris des attaques Evil Twin.
+
+7. **Karma :** L'outil Karma, souvent intégré dans d'autres suites d'outils de sécurité comme Kali Linux, permet de créer des points d'accès malveillants pour réaliser des attaques Evil Twin.
+
+Il est important de noter que l'utilisation de ces outils doit se faire dans un contexte légal et éthique, avec l'autorisation explicite des propriétaires des réseaux ou des systèmes sur lesquels de telles attaques sont effectuées. Ces outils sont souvent utilisés à des fins éducatives, de recherche en sécurité et de tests de vulnérabilité.
