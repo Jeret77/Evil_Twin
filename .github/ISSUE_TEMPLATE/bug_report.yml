@@ -1,28 +1,40 @@
-name: Issue Template
-about: Template for creating issues
+name: "Issue Template"
+about: "Template for creating issues"
 title: "[Feature] "
 
 # Default values for your issue:
 defaults:
   assignees:
-    - username
+    - "username"
   labels:
-    - enhancement
-  milestone: Sprint X
+    - "enhancement"
+  milestone: "Sprint X"
   projects:
-    - Project Name
+    - "Project Name"
 
 body:
 
 ## Description
-[Replace this paragraph with a detailed description of the issue.]
+"Replace this paragraph with a detailed description of the issue."
 
 ## Tasks
-- [ ] Task 1
-- [ ] Task 2
-- [ ] ...
+- "[ ] Task 1"
+- "[ ] Task 2"
+- "[ ] ..."
 
-## Acceptanc
+## Acceptance Criteria
+- "[ ] Criterion 1"
+- "[ ] Criterion 2"
+- "[ ] ..."
 
+## Additional Context
+"Include any additional relevant information."
 
+## Attachments
+"If applicable, attach files or screenshots here."
 
+## Due Date
+"Set a due date if necessary."
+
+## Other Comments
+"Any additional information or comments."
