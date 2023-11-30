@@ -1,0 +1,35 @@
+# Comment se Protéger des Attaques Evil Twin
+
+Les attaques Evil Twin, également connues sous le nom d'attaques de points d'accès (AP) malveillants, sont des stratagèmes couramment utilisés par les pirates informatiques pour intercepter le trafic réseau et compromettre la sécurité des utilisateurs. Ces attaques impliquent la création d'un faux point d'accès qui ressemble à un réseau légitime, trompant ainsi les utilisateurs pour qu'ils se connectent involontairement à un réseau contrôlé par un attaquant. Voici quelques conseils pour vous protéger contre de telles attaques :
+
+## 1. **Utilisez un Réseau Privé Virtuel (VPN) :**
+   - Un VPN crypte votre trafic Internet, rendant difficile pour un attaquant de comprendre ou de manipuler vos données.
+
+## 2. **Vérifiez les Réseaux WiFi Disponibles :**
+   - Avant de vous connecter à un réseau WiFi, assurez-vous qu'il s'agit bien d'un réseau légitime. Évitez de vous connecter à des réseaux non sécurisés ou inconnus.
+
+## 3. **Désactivez la Connexion Automatique aux Réseaux WiFi :**
+   - Désactivez la fonction de connexion automatique à des réseaux WiFi connus pour éviter de vous connecter involontairement à un réseau compromis.
+
+## 4. **Utilisez des Réseaux WiFi Sécurisés :**
+   - Privilégiez les réseaux WiFi protégés par WPA3 plutôt que WPA2 ou des protocoles plus anciens.
+
+## 5. **Gardez vos Logiciels à Jour :**
+   - Assurez-vous que votre système d'exploitation, vos navigateurs et vos applications sont toujours mis à jour pour bénéficier des dernières corrections de sécurité.
+
+## 6. **Utilisez des Certificats SSL/TLS :**
+   - Lorsque vous accédez à des sites Web, assurez-vous qu'ils utilisent des connexions chiffrées SSL/TLS, reconnaissables par "https://" dans l'URL.
+
+## 7. **Surveillez les Activités Suspectes :**
+   - Soyez attentif aux signes d'activités réseau suspectes, tels que des connexions inattendues ou des performances réseau inhabituelles.
+
+## 8. **Éduquez les Utilisateurs :**
+   - Sensibilisez les utilisateurs à reconnaître les réseaux potentiellement malveillants et à adopter des comportements sécurisés.
+
+## 9. **Utilisez des Outils de Détection d'AP Malveillants :**
+   - Certains outils de sécurité peuvent détecter la présence d'AP malveillants. Utilisez-les pour scanner les réseaux disponibles.
+
+## 10. **Configurez un Pare-feu Personnel :**
+   - Un pare-feu personnel peut aider à bloquer les connexions non autorisées et à renforcer la sécurité de votre réseau.
+
+En suivant ces conseils, vous renforcez significativement votre protection contre les attaques Evil Twin et contribuez à assurer la sécurité de votre activité en ligne. Restez vigilant et adoptez des pratiques de sécurité solides pour prévenir les menaces potentielles.
