@@ -1,0 +1,45 @@
+Bien sûr, voici une mise à jour fictive pour l'outil Evil Twin avec des dates de sortie et des versions :
+
+---
+
+## Mises à Jour d'Evil Twin
+
+Bienvenue dans la section des mises à jour d'Evil Twin. Cette page vous tiendra informé des dernières évolutions, améliorations et correctifs apportés à notre projet Evil Twin.
+
+### Version Actuelle : [v2.0.0](lien_vers_les_releases)
+
+### Notes de Version
+
+#### [v2.0.0](lien_vers_les_releases) - Sortie le 15 Février 2024
+- **Nouvelle Fonctionnalité :** Intégration d'un mode "Silencieux" pour exécuter l'attaque sans générer de trafic visible.
+- **Amélioration de la Stabilité :** Résolution de problèmes mineurs entraînant des plantages intermittents.
+- **Interface Utilisateur Améliorée :** Nouvelles options conviviales pour une configuration plus simple.
+
+#### [v1.5.0](lien_vers_les_releases) - Sortie le 5 Janvier 2024
+- **Amélioration de la Détection :** Ajout d'une capacité de détection améliorée pour identifier les réseaux cibles plus rapidement.
+- **Optimisation des Performances :** Réduction de la consommation des ressources système pour une utilisation plus fluide.
+- **Sécurité Renforcée :** Mises à jour de sécurité pour contrer les nouvelles vulnérabilités.
+
+#### [v1.1.0](lien_vers_les_releases) - Sortie le 20 Novembre 2023
+- **Nouvelle Option de Configuration :** Ajout de paramètres de configuration avancés pour une personnalisation approfondie.
+- **Correction de Bogues :** Résolution de problèmes signalés par la communauté Evil Twin.
+- **Documentation Mise à Jour :** Améliorations et ajouts à la documentation pour une utilisation plus facile.
+
+### Comment Mettre à Jour
+
+Pour mettre à jour votre installation d'Evil Twin vers la dernière version, suivez ces étapes simples :
+
+1. Accédez au [lien des releases](lien_vers_les_releases) sur notre page GitHub.
+2. Téléchargez le fichier correspondant à la dernière version (par exemple, `EvilTwin-v2.0.0.zip`).
+3. Décompressez le fichier téléchargé dans le répertoire de votre choix.
+4. Exécutez le script d'installation ou suivez les instructions spécifiques à la mise à jour fournies dans la documentation.
+
+### Besoin d'Aide ou de Retour ?
+
+Si vous avez des questions, rencontrez des problèmes ou souhaitez simplement partager vos retours d'expérience, n'hésitez pas à [ouvrir une issue](lien_vers_les_issues) sur notre dépôt GitHub. Vos retours sont précieux pour améliorer constamment Evil Twin.
+
+Merci de rester à jour avec Evil Twin !
+
+---
+
+N'oubliez pas de remplacer les liens entre crochets par les liens réels de votre dépôt GitHub. Cette structure permet de présenter de manière fictive des mises à jour avec des versions et des fonctionnalités spécifiques.
